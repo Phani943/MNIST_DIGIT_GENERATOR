@@ -14,7 +14,7 @@ MNIST_DIGIT_GENERATOR/
 │
 ├── notebooks/
 │   ├── mnist_generator_training.ipynb            # Jupyter notebook for GAN Training
-|   ├── mnist_generator_testing.ipynb             # Jupyter notebook for GAN Testing
+|   └── mnist_generator_testing.ipynb             # Jupyter notebook for GAN Testing
 │
 └── README.md                                     # This README file
 ```
