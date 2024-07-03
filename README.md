@@ -28,3 +28,6 @@ To generate images, you can use pre-trained weights from this repository or trai
 
 ### Results
 After training the GAN, you can evaluate its performance by generating images and comparing them to the original MNIST dataset. Use the Jupyter notebook `mnist_generator_testing.ipynb` to visualize and assess the quality of the generated digits. You can also adjust the training parameters to see how they affect the output quality. The results should showcase realistic handwritten digits, demonstrating the effectiveness of the GAN model.
+
+### Sample Generated Image
+![Generated Image](output.png)
